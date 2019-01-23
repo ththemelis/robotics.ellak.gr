@@ -14,6 +14,8 @@
 ## Υλοποίηση
 
 ## Λίστα εξοπλισμού
+-1 x Arduino uno (https://store.arduino.cc/arduino-uno-rev3 "Arduino Uno")
 
 ## Σχηματικό διάγραμμα
+
 
